@@ -1,0 +1,1 @@
+hi this is my second attempt at creating  a github repository from the comand line
